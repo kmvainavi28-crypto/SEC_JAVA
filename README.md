@@ -44,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0344-reverse-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2000-reverse-prefix-of-word](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/2000-reverse-prefix-of-word) |
 ## Array
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0014-longest-common-prefix) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Trie
 |  |
 | ------- |
