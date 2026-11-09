@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0066-plus-one) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0014-longest-common-prefix) |
+| [0066-plus-one](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0066-plus-one) |
 | [0724-find-pivot-index](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
