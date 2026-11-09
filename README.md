@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/1929-concatenation-of-array) |
 ## Trie
 |  |
@@ -90,5 +91,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
