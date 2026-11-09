@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0014-longest-common-prefix) |
+| [1480-running-sum-of-1d-array](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Trie
 |  |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/2000-reverse-prefix-of-word) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
