@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0022-generate-parentheses) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0022-generate-parentheses) |
 ## Backtracking
 |  |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0018-4sum) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
