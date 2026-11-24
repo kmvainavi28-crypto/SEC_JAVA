@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0066-plus-one) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0058-length-of-last-word) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0013-roman-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/1512-number-of-good-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Counting
