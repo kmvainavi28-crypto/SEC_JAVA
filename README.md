@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0344-reverse-string) |
@@ -107,4 +108,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/1929-concatenation-of-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
