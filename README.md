@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0013-roman-to-integer) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0002-add-two-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0010-regular-expression-matching) |
 ## Sliding Window
 |  |
