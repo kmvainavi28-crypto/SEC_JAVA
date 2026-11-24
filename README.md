@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0023-merge-k-sorted-lists) |
 ## Manacher
 |  |
 | ------- |
@@ -191,4 +193,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0011-container-with-most-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
