@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0283-move-zeroes) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0283-move-zeroes) |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0022-generate-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
