@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0013-roman-to-integer) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0013-roman-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/1512-number-of-good-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0010-regular-expression-matching) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kmvainavi28-crypto/SEC_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
